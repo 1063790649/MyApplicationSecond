@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="h_world">Hello World!</string>
+    <string name="sec_hello">这是第二页</string>
+    <string name="sec_text1">你好我是不同的</string>
+    <string name="a_btn">跳转第二页</string>
+    <string name="a_btn2">弹出对话框</string>
+</resources>
