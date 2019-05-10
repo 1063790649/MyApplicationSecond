@@ -46,6 +46,7 @@ public class MainActivity extends AppCompatActivity {
                 return true;
             }
         });
+
     }
     private void gotoSecondActivity(){
         Intent intent=new Intent();
